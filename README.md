@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Diego 👋 
 
+![share_temp_poseA](https://user-images.githubusercontent.com/90665510/144760098-1f8f1706-f615-40fe-a36b-06be16281ec7.png)
+
 Estou começando a mergunhar nesse mundo incrivel da tecnologia 🏊‍♀️
 
 Estes são os primeiros passos, então vamos lá! 🏄
@@ -9,7 +11,6 @@ Estes são os primeiros passos, então vamos lá! 🏄
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-solit-527259217/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
-![share_temp_poseA](https://user-images.githubusercontent.com/90665510/144760098-1f8f1706-f615-40fe-a36b-06be16281ec7.png)
 
 ## Working
 

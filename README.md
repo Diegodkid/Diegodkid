@@ -17,7 +17,7 @@ Estes são os primeiros passos, então vamos lá! 🏄
 ### Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br/>
-  ![pngwing com(1)](https://user-images.githubusercontent.com/90665510/153714783-b11d56c0-3046-4d47-a79e-b71592658f0c.png)
+  ![Html](https://user-images.githubusercontent.com/90665510/153714783-b11d56c0-3046-4d47-a79e-b71592658f0c.png)
 
 
 </div><br/>

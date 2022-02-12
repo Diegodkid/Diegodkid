@@ -17,7 +17,11 @@ Estes são os primeiros passos, então vamos lá! 🏄
 ### Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br/>
-  ![Html](https://user-images.githubusercontent.com/90665510/153714783-b11d56c0-3046-4d47-a79e-b71592658f0c.png)
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 
 
 </div><br/>

@@ -16,10 +16,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-solit-527259217/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
-<div align="center">
-  <a href="https://github.com/Diegodkid">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Diegodkid&show_icons=true&theme=radical"/>
-    
+<div align="left">
+
  ### Tecnologias que estou aprendendo
 
 
@@ -31,10 +29,16 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   
-
+</div>
+  
+<div align="left">
+  <a href="https://github.com/Diegodkid">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Diegodkid&show_icons=true&theme=radical"/>
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodkid&theme=radical"/>  
+    
 </div>
 
-<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodkid&theme=radical"/>
 
 
 

@@ -1,5 +1,5 @@
 
-<img align="right" height="500em" src="https://user-images.githubusercontent.com/90665510/158039513-19da153c-dcf4-4285-b2de-243c5196501d.svg"/>
+<img align="right" height="500em" margin-bottom="16px" src="https://user-images.githubusercontent.com/90665510/158039513-19da153c-dcf4-4285-b2de-243c5196501d.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 

@@ -31,7 +31,7 @@
   
 </div>
   
-<div align="left">
+<div align="center">
   <a href="https://github.com/Diegodkid">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Diegodkid&show_icons=true&theme=radical"/>
   

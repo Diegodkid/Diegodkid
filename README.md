@@ -32,9 +32,9 @@
   
 <div>
   <a href="https://github.com/Diegodkid">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=Diegodkid&show_icons=true&theme=radical"/>
+  <img height="235em" src="https://github-readme-stats.vercel.app/api?username=Diegodkid&show_icons=true&theme=radical"/>
   
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodkid&theme=radical"/>  
+  <img height="235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodkid&theme=radical"/>  
     
 </div>
 

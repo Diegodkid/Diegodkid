@@ -1,14 +1,20 @@
-## Olá! Eu sou o Diego 👋 
 
-Estou começando a mergunhar nesse mundo incrivel da tecnologia 🏊‍♀️
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/90665510/158039513-19da153c-dcf4-4285-b2de-243c5196501d.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Santos</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-Estes são os primeiros passos, então vamos lá! 🏄
+- 🔥 Web Developer & focused on helping people through programming 
+
+- 🔭 I’m currently working at Freelacer
+
+- 👨‍💻 All of my projects are available at [diego-gilt.vercel.app](https://diego-gilt.vercel.app/)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, React.js, Node.JS**
+
+- ⚡ Fun fact **Oneye 😜*
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-solit-527259217/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
-
-
-## Working
 
 ![Diegodkid GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegodkid&show_icons=true&theme=radical)
 

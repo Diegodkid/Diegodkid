@@ -1,5 +1,5 @@
 
-<img align="right" height="520em" src="https://user-images.githubusercontent.com/90665510/158039513-19da153c-dcf4-4285-b2de-243c5196501d.svg"/>
+<img align="right" height="550em" src="https://user-images.githubusercontent.com/90665510/158039513-19da153c-dcf4-4285-b2de-243c5196501d.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
@@ -18,12 +18,9 @@
 
 <div align="center">
   <a href="https://github.com/Diegodkid">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Diegodkid&show_icons=true&theme=radical"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodkid&theme=radical"/>
-</div>
-
-
-### Tecnologias que estou aprendendo
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Diegodkid&show_icons=true&theme=radical"/>
+    
+ ### Tecnologias que estou aprendendo
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,6 +30,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  
+
+</div>
+
+<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodkid&theme=radical"/>
+
 
 
 

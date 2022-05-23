@@ -5,7 +5,7 @@
 
 - 🔥 Web Developer & focused on helping people through programming 
 
-- 🔭 I’m currently working at Freelacer
+- 🔭 I’m currently programming student
 
 - 👨‍💻 All of my projects are available at [diego-gilt.vercel.app](https://diego-gilt.vercel.app/)
 
@@ -14,7 +14,7 @@
 - ⚡ Fun fact **Oneye 😜*
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-solit-527259217/)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 <div align="left">
 
